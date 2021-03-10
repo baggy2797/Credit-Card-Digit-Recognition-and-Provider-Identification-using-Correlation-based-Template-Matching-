@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/baggy2797/Credit-Card-Digit-Recognition-and-Provider-Identification-using-Correlation-based-Template-Matching-/blob/main/ocr_a_reference.png?raw=true)
 
-
+<img src="https://img.shields.io/badge/author-Aditya%20Bhagwat-orange">
 
 ### What is it?
 
